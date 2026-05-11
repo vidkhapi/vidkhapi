@@ -1,7 +1,7 @@
 # 👋 Hi, I'm vidkhapi
 
 <p align="center">
-  <img src="[https://demolab.com](https://vidkh.site/favicon.svg)" alt="Typing SVG" />
+  <img src="https://vidkh.site/favicon.svg" alt="Typing SVG" />
 </p>
 
 ---
