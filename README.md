@@ -2,6 +2,7 @@
 
 <p align="center">
   <img src="https://vidkh.site/favicon.svg" alt="vidkhapi logo" width="150" />
+  <div class="text-xl font-serif font-bold tracking-tight">VidKh<span class="text-blue-500">.</span></div>
 </p>
 
 ---
