@@ -1,8 +1,10 @@
 # 👋 Hi, I'm vidkhapi
 
 <p align="center">
-  <img src="https://vidkh.site/favicon.svg" alt="vidkhapi logo" width="150" />
-  <div class="text-xl font-serif font-bold tracking-tight">VidKh<span class="text-blue-500">.</span></div>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="12" fill="#141414"/>
+  <text x="30" y="44" font-family="ui-serif, Georgia, serif" font-weight="bold" font-size="36" fill="#ffffff" text-anchor="middle" letter-spacing="-2">Vidkh<tspan fill="#3b82f6">.</tspan></text>
+</svg>
 </p>
 
 ---
